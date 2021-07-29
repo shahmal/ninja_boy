@@ -19,7 +19,7 @@ Project created by <a href="https://github.com/shahmal">shahmal</a> to make it p
 <a href="https://github.com/shahmal/ninja_boy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shahmal/ninja_boy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/shahmal/ninja_boy)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahmal/ninja_boy=PublicBot&theme=nightowl)](https://github.com/shahmal/ninja_boy)
   </div>
     
 ## Setup
