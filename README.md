@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/shahmal">shahmal</a> to make it p
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahmal/ninja_boy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol)
      </div>
 <br>
 <br >
